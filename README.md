@@ -1,6 +1,2 @@
 Aqui encuentras proyectos en python sobre
-Minado de datos
-Automatizacion de whatsapp
-Calculadora de funciones
-Calculadora para precios
-Sistemas de recomendacion de mercaderia?
+minado de datos
