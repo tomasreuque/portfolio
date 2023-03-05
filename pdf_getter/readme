@@ -1,1 +1,3 @@
-Base model to get PDFs for given url, its slightly hardcoded for example the number of pdf files is not specified (in case the url contains several archives), next step is to deliver the pdfs by whatsapp
+Base model to get PDFs for given url, its slightly hardcoded for example the number of pdf files is not specified (in case the url contains several archives), next step is to deliver the pdfs by whatsapp if its neccesary
+
+Modelo sencillo para obtener PDFs de una url dada, el codigo esta hardcodeado por ejemplo no se limita la cantidad de archivos a descargar. proximo paso es entregar el archivo por whatsapp en caso de ser necesario
