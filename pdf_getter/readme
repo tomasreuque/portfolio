@@ -1,0 +1,1 @@
+Base model to get PDFs for given url, its slightly hardcoded for example the number of pdf files is not specified (in case the url contains several archives), next step is to deliver the pdfs by whatsapp
