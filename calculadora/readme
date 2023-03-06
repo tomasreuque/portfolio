@@ -1,0 +1,5 @@
+Python and kivy code to create a calculator, this tool is usefull for me as a merchant to add the % I do to merch and return the final price
+(for example, 1 litre milk cost me AR$200 ≈ 0.5 U$D, i get the final price AR$300 ≈ 0.75 U$D)
+3
+Codigo escrito en python y kivi, para desarrollar una app calculadora, esta herramienta es util para mi, un comerciante, para sumar el costo de la mercaderia y el precio final de venta
+(por ejemplo, 1KG de yerba me cuesta $600 ≈ 1.5 U$D, el precio final seria $900 ≈ 2.25 U$D)
